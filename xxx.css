@@ -1,0 +1,38 @@
+body {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 18px;
+   background-color: azure;
+   line-height: 1.5em;
+}
+
+header {
+   background-color: rgb(95, 95, 95);
+   color: #fff;
+   padding: 20px;
+   text-align: center;
+   border-bottom: 4px #000 solid;
+   margin-bottom: 10px;
+}
+
+.container {
+   width: 90%;
+   margin: auto;
+   padding: 10px;
+}
+
+
+#box {
+   background-color: deeppink;
+   opacity: 100;
+   width: 100px;
+   height: 100px;
+   position: relative;
+}
+
+#div {
+   width: 200px;
+   height: 200px;
+   background: #ccc;
+   -webkit-transition: 0.8s;
+   transition: 0.8s;
+}
